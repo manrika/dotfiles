@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = manrika.m@gmail.com
+	name = manrika malka
